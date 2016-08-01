@@ -4,7 +4,7 @@ package maven.luna;
  * Hello world!
  *
  */
-public class App 
+public class Driver 
 {
     public static void main( String[] args )
     {
